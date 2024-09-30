@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about **Dimensional Modelling**
 - 👯 I’m looking to collaborate on **Business intelligence and Data Engineering Projects**
 - 🤔 I’m looking for help with **Full-time opportunities**
-- 💬 Ask me about **Football and Data we will talk for hours** 
+- 💬 Ask me about **Soccer and Data we will talk for hours** 
 - 📫 How to reach me: **deshpandeswapnil007@gmail.com**
 - ⚡ Fun fact: **I'm a Black Belt in Karate!!**
 
