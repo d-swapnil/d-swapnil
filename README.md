@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Deshpande</h1>
 
 <h3 align="center">I am an aspiring Business intelligence, Data Engineering and Data Analyst enthusiast, currently pursuing my Master’s in Information Technology and Management form The University of Texas at Dallas, Texas. I am passionate about exploring the exciting fields of Data warehousing and ETL Development. I am committed to achieving excellence in my work, and I thrive in challenging environments that push me to enhance my skills and abilities.</h3>
-<img align="right" alt="Coding" height="300" width="300" src="https://aryng.com/assets/img/ani2.gif">
-
+<img align="Right" alt="Coding" Width="400" src="https://ruya.studio/assets/images/dev.webp">
 
 Here are some ideas to get you started:
 
