@@ -1,21 +1,27 @@
-![MasterHead](https://i0.wp.com/timoelliott.com/blog/wp-content/uploads/2020/12/if-youve-finished-arguing-I-have-data.jpg?fit=1041%2C498&ssl=1)
-<h1 align="center">Hi 👋, I'm Swapnil Deshpande</h1>
-
-<h3 align="center">I am an aspiring Business intelligence, Data Engineering and Data Analyst enthusiast, currently pursuing my Master’s in Information Technology and Management form The University of Texas at Dallas, Texas. I am passionate about exploring the exciting fields of Data warehousing and ETL Development. I am committed to achieving excellence in my work, and I thrive in challenging environments that push me to enhance my skills and abilities.</h3>
-<img align="Right" alt="Coding" Width="400" src="https://ruya.studio/assets/images/dev.webp">
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on **Data warehousing Concepts and ETL Pipeline Development**
-- 🌱 I’m currently learning about **Dimensional Modelling**
-- 👯 I’m looking to collaborate on **Business intelligence and Data Engineering Projects**
-- 🤔 I’m looking for help with **Full-time opportunities**
-- 💬 Ask me about **Soccer and Data we will talk for hours** 
-- 📫 How to reach me: **deshpandeswapnil007@gmail.com**
-- ⚡ Fun fact: **I'm a Black Belt in Karate!!**
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/deshpande-swapnil?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZDlu0D1ETQeumc11LQ22NA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SwapnilDeshpadne" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deshpande-swapnil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deshpandeswapnil007@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=d-swapnil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=d-swapnil&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=d-swapnil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=d-swapnil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=d-swapnil&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=d-swapnil&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
