@@ -2,10 +2,14 @@
 🔭 I’m currently working on - Building scalable **ETL pipelines** with **AWS & Snowflake**, developing interactive **BI dashboards** using **Tableau & Power BI**, and exploring **advanced SQL query optimization techniques**.
 <br>
 <br>👯 I’m looking to collaborate on - ** Open-source **data engineering & analytics** projects, real-time **data processing & workflow automation**, and **API integrations & cloud-based data solutions**.
-<br>🤝 I’m looking for help with
-<br>🌱 I’m currently learning
-<br>💬 Ask me about
-<br>⚡ Fun fact
+<br>
+<br>🤝 I’m looking for help with - ** Implementing **CI/CD pipelines** for data workflows and optimizing **large-scale data warehousing solutions**.
+<br>
+<br>🌱 I’m currently learning - **Apache Kafka** & event-driven architectures, advanced **AWS services** (Glue, Lambda, Athena), and **Machine Learning** for data-driven insights.
+<br>
+<br>💬 Ask me about - **SQL performance tuning & debugging**, building **scalable data pipelines & ETL automation**, and **Business Intelligence & analytics tools** (Tableau, Power BI, Looker).
+<br>
+<br>⚡ Fun fact - I love **exploring soccer analytics** and tracking match stats using Python!
 
 
 ## 🌐 Socials:
